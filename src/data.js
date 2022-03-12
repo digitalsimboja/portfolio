@@ -3,7 +3,7 @@ export const projects =[
         title: "React Reserve",
         subtitle: "MERN Stack",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+            "Highly responsive app built with the MERN Stack - MongoDb, Express, React and NodeJs",
         image: "./project-1.gif",
         link: "https://reactbootcamp.com"
     },
@@ -11,7 +11,7 @@ export const projects =[
         title: "React Tracks",
         subtitle: "React and Python",
         description: 
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+            "A fully functional Tracking application built with React for the Frontend and Python for the Backend",
         image: "./project-2.gif",
         link: "https://digitalsimboja.com",
     },
@@ -19,7 +19,7 @@ export const projects =[
         title: "DevChat",
         subtitle: "React and Firebase",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+            "A React mobile application for the Developers to collaborate remotely in a chat room",
         image: "./project-3.gif",
         link: "https://jsbootcamp.com",
     },
@@ -27,8 +27,8 @@ export const projects =[
         title: "Epic Todo App",
         subtitle: "React Hooks",
         description: 
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "./project-4.gif",
+            "A robust Todo Blockchain-based application built with SOlidity for the Ethereum Blockchain",
+        image: "./web3.0.gif",
         link: "https://pythonbootcamp.com"
     }
 ];

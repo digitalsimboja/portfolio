@@ -21,6 +21,9 @@ class Navbar extends Component {
                         <a href="#testimonials" className="mr-5 hover:text-white">
                             Testimonials
                         </a>
+                        <a href="https://digitalsimboja.hashnode.dev" className="mr-5 hover:text-white" target="_blank">
+                            Blogs
+                        </a>
                     </nav>
                     <a
                         href="#contact"
