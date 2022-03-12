@@ -148,9 +148,7 @@ class Footer extends Component {
                     </div>
                     <div class="mb-6">
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt distinctio earum
-                            repellat quaerat voluptatibus placeat nam, commodi optio pariatur est quia magnam
-                            eum harum corrupti dicta, aliquam sequi voluptate quas.
+                            Subscribe to our weekly updates on recent happenings in Web3.0 and the Metaverse
                         </p>
 
                     </div>

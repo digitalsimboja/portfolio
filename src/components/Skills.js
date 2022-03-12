@@ -14,9 +14,7 @@ class Skills extends Component {
                             Skills &amp; Technologies
                         </h1>
                         <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-                            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-                            ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-                            possimus est.
+                            Find out the relevant skills I can help you with.
 
                         </p>
 
