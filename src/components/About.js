@@ -11,7 +11,7 @@ class About extends Component {
                             <br className="hidden lg:inline-block" /> I love to build amazing apps.
                         </h1>
                         <p className="flex justify-center">
-                            I am a Fullstack Developer with 5 years experience. Currently, I am building
+                            I am a Fullstack Developer with 5+ years experience. Currently, I am building
                             on the Web3.0 with great focus on NFT marketplace and Smart Contracts
 
                         </p>
