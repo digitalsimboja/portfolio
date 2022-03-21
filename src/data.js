@@ -8,20 +8,20 @@ export const projects =[
         link: "https://reactbootcamp.com"
     },
     {
-        title: "React Tracks",
-        subtitle: "React and Python",
+        title: "Whitelist-Dapp",
+        subtitle: "Whitelist Dapp",
         description: 
-            "A fully functional Tracking application built with React for the Frontend and Python for the Backend",
-        image: "./project-2.gif",
-        link: "https://digitalsimboja.com",
+            "A fully functional Decentralized Application for adding early adopters to the Whitelist",
+        image: "./crypto-devs.svg",
+        link: "https://whitelist-dapp-ten-fawn.vercel.app/",
     },
     {
-        title: "DevChat",
-        subtitle: "React and Firebase",
+        title: "NFT-Collection",
+        subtitle: "An NFT-Collection sample project",
         description:
-            "A React mobile application for the Developers to collaborate remotely in a chat room",
-        image: "./project-3.gif",
-        link: "https://jsbootcamp.com",
+            "An NFT Collection Dapp for minting NFTs",
+        image: "./5.svg",
+        link: "https://nft-collection-omega-ten.vercel.app/",
     },
     {
         title: "Epic Todo App",
