@@ -38,22 +38,7 @@ class Footer extends Component {
                                 ></path>
                             </svg>
                         </a>
-                        <a href="#!" type="button" class="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1">
-                            <svg aria-hidden="true"
-                                focusable="false"
-                                data-prefix="fab"
-                                data-icon="google"
-                                class="w-3 h-full mx-auto"
-                                role="img"
-                                xmlns="http://www.w3.org/2000/svg"
-                                viewBox="0 0 488 512"
-                            >
-                                <path
-                                    fill="currentColor"
-                                    d="M488 261.8C488 403.3 391.1 504 248 504 110.8 504 0 393.2 0 256S110.8 8 248 8c66.8 0 123 24.5 166.3 64.9l-67.5 64.9C258.5 52.6 94.3 116.6 94.3 256c0 86.5 69.1 156.6 153.7 156.6 98.2 0 135-70.4 140.8-106.9H248v-85.3h236.1c2.3 12.7 3.9 24.9 3.9 41.4z"
-                                ></path>
-                            </svg>
-                        </a>
+                     
                         <a href="#!" type="button" class="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1">
                             <svg aria-hidden="true"
                                 focusable="false"
@@ -87,7 +72,7 @@ class Footer extends Component {
                                 ></path>
                             </svg>
                         </a>
-                        <a href="https://github.com/digitalsimboja" type="button" class="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1">
+                        <a href="https://github.com/digitalsimboja" target="_blank" rel="noopener noreferrer" type="button" class="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1">
                             <svg aria-hidden="true"
                                 focusable="false"
                                 data-prefix="fab"
@@ -190,24 +175,7 @@ class Footer extends Component {
                             </ul>
 
                         </div>
-                        <div class="mb-6">
-                            <h5 class="uppercase font-bold mb-2.5">Testimonials</h5>
-
-                            <ul class="list-none mb-0">
-                                <li>
-                                    <a href="#!" class="text-white">Lua</a>
-                                </li>
-                                <li>
-                                    <a href="#!" class="text-white">Conor</a>
-                                </li>
-                                <li>
-                                    <a href="#!" class="text-white">Avinka</a>
-                                </li>
-                                <li>
-                                    <a href="#!" class="text-white">Ian</a>
-                                </li>
-                            </ul>
-                        </div>
+                       
                         <div class="mb-6">
                             <h5 class="uppercase font-bold mb-2.5">Contact</h5>
 
@@ -223,6 +191,24 @@ class Footer extends Component {
                                 </li>
                                 <li>
                                     <a href="#!" class="text-white">+234 - 806 - 3874 - 746</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="mb-6">
+                            <h5 class="uppercase font-bold mb-2.5">Testimonials</h5>
+
+                            <ul class="list-none mb-0">
+                                <li>
+                                   
+                                </li>
+                                <li>
+                                    
+                                </li>
+                                <li>
+                                    
+                                </li>
+                                <li>
+                                   
                                 </li>
                             </ul>
                         </div>

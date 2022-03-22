@@ -24,12 +24,12 @@ export const projects =[
         link: "https://nft-collection-omega-ten.vercel.app/",
     },
     {
-        title: "Epic Todo App",
-        subtitle: "React Hooks",
+        title: "Initial Coin Offering",
+        subtitle: "An ICO Dapp ",
         description: 
-            "A robust Todo Blockchain-based application built with SOlidity for the Ethereum Blockchain",
-        image: "./web3.0.gif",
-        link: "https://pythonbootcamp.com"
+            "An ICO Dapp which allows NFT holds to mint tokens and convert their NFTs to native tokens of the Dapp",
+        image: "./0.svg",
+        link: "https://ico-xi.vercel.app/"
     }
 ];
 
@@ -52,26 +52,26 @@ export const skills = [
 export const testimonials = [
     {
         quote: 'It was amazing working with Sunday. He delivers on time and according to our specification.',
-        image: './testimonial-1.gif',
-        name: 'Albert Dera',
+        image: '',
+        name: 'Alis',
         company: 'Payxef Inc.'
     },
     {
         quote: 'Sunday is an awesome Engineer to work with. He ensures he understands what his clients wants and delivers on time',
-        image: './testimonial-2.gif',
-        name: 'Conor Sexton',
+        image: '',
+        name: 'Ahmedu',
         company: 'DexaChain Inc.'
     },
     {
         quote: 'The dude produces awesome screens that wows! Will always hire him',
-        image: './testimonial-3.gif',
-        name: 'Anika Huzinga Brandon',
+        image: '',
+        name: 'Anika Huzin',
         company: 'FantomXena Group'
     },
     {
         quote: 'Working with Sunday gives you comfort to receive great finished products. Would recommend always',
-        image: './testimonial-4.gif',
-        name: 'Lau Keith',
+        image: '',
+        name: 'Brad Michael',
         company: 'Primedia Digital'
     },
 
