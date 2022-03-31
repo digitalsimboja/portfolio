@@ -1,11 +1,11 @@
 export const projects =[
     {
-        title: "React Reserve",
-        subtitle: "MERN Stack",
+        title: "DAO Dapp",
+        subtitle: "A DAO Sample project",
         description:
-            "Highly responsive app built with the MERN Stack - MongoDb, Express, React and NodeJs",
-        image: "./project-1.gif",
-        link: "https://reactbootcamp.com"
+            "A DAO sample application to enable participants create and vote on Proposals",
+        image: "./project-3.gif",
+        link: "https://building-a-dao-bice.vercel.app/"
     },
     {
         title: "Whitelist-Dapp",
@@ -42,9 +42,9 @@ export const skills = [
         'GraphQL',
         'Severless',
         'Solidity',
-        'Material UI',
+        'Rust',
         'EtherJS',
-        'Solana',
+        'Alchemy',
         'Ethereum'
 
 ];
