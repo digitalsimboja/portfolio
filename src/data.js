@@ -4,7 +4,7 @@ export const projects =[
         subtitle: "A DAO Sample project",
         description:
             "A DAO sample application to enable participants create and vote on Proposals",
-        image: "./project-3.gif",
+        image: "./2.svg",
         link: "https://building-a-dao-bice.vercel.app/"
     },
     {
