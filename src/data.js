@@ -34,18 +34,21 @@ export const projects =[
 ];
 
 export const skills = [
+
+        'Solidity',
+        'Rust -Beginner',
+        'EtherJs',
+        'Web3.js',
+        'AWS',
         'JavaScript', 
         'Python',
         'React',
         'NodeJs',
-        'AWS',
+        'NextJS',
         'GraphQL',
         'Severless',
-        'Solidity',
-        'Rust',
-        'EtherJS',
         'Alchemy',
-        'Ethereum'
+        'Ethereum',
 
 ];
 
@@ -53,26 +56,26 @@ export const testimonials = [
     {
         quote: 'It was amazing working with Sunday. He delivers on time and according to our specification.',
         image: '',
-        name: 'Alis',
-        company: 'Payxef Inc.'
+        name: 'Ali',
+        company: 'PrimeLabs.'
     },
     {
         quote: 'Sunday is an awesome Engineer to work with. He ensures he understands what his clients wants and delivers on time',
         image: '',
-        name: 'Ahmedu',
-        company: 'DexaChain Inc.'
+        name: 'Ahmed',
+        company: 'PrimeLabs'
     },
     {
-        quote: 'The dude produces awesome screens that wows! Will always hire him',
+        quote: 'I am Co-Founding a Decentralized on-chain Hotel reservation platform with Sunday. He figured out the value chain and the differentiating factors and builds that into the smart contracts. This dude is amazing to work with.',
         image: '',
-        name: 'Anika Huzin',
-        company: 'FantomXena Group'
+        name: 'Tomya',
+        company: 'KripBooking'
     },
     {
-        quote: 'Working with Sunday gives you comfort to receive great finished products. Would recommend always',
+        quote: 'Working with Sunday gives you comfort to receive great finished products. I am part of the team at KripBooking, Sunday is an amazing Team Leader to work with',
         image: '',
-        name: 'Brad Michael',
-        company: 'Primedia Digital'
+        name: 'Pranjil',
+        company: 'KripBooking'
     },
 
 ];

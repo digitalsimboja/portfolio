@@ -161,16 +161,16 @@ class Footer extends Component {
 
                             <ul class="list-none mb-0">
                                 <li>
-                                    <a href="#!" class="text-white">MERN</a>
+                                    <a href="#!" class="text-white">AERX</a>
                                 </li>
                                 <li>
-                                    <a href="#!" class="text-white">Epic Todo</a>
+                                    <a href="#!" class="text-white">KripBooking</a>
                                 </li>
                                 <li>
-                                    <a href="#!" class="text-white">DevChat</a>
+                                    <a href="#!" class="text-white">DeFi Exchange</a>
                                 </li>
                                 <li>
-                                    <a href="#!" class="text-white">React Tracks</a>
+                                    <a href="#!" class="text-white">RustChain</a>
                                 </li>
                             </ul>
 
@@ -184,10 +184,10 @@ class Footer extends Component {
                                     <a href="#!" class="text-white">Address</a>
                                 </li>
                                 <li>
-                                    <a href="#!" class="text-white">3 Aduloju St.</a>
+                                    <a href="#!" class="text-white">Lagos</a>
                                 </li>
                                 <li>
-                                    <a href="#!" class="text-white"> Ipaja, Lagos</a>
+                                    <a href="#!" class="text-white"> Nigeria</a>
                                 </li>
                                 <li>
                                     <a href="#!" class="text-white">+234 - 806 - 3874 - 746</a>
