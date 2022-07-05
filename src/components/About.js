@@ -12,8 +12,8 @@ class About extends Component {
                         </h1>
                         <p className="flex justify-center">
                             I am a Fullstack Developer with 5+ years experience. Currently, I am building
-                            on the Web3.0 with great focus on NFT marketplace and Smart Contracts
-
+                            on the Web3.0 with great focus on NFT marketplace and DeFi, using Solidity 
+                            while sharpening my skills in Rust.
                         </p>
                         <div className="flex justify-center">
                             <a href="#contact" className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
