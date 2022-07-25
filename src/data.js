@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "DeFi Exchange",
+    title: "BeeSwap",
     subtitle: "A DeFi Token Swap",
     description:
       "A Decentralized Token Exchange app for swapping between tokens just like UniSWap",
-    image: "./8.svg",
-    link: " https://de-fi-exchange-nine.vercel.app/",
+    image: "./beeswap.png",
+    link: "https://beeswap-mauve.vercel.app/",
   },
 
   {
