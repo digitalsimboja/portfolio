@@ -5,7 +5,7 @@ export const projects = [
     description:
       "A Decentralized Token Exchange app for swapping between tokens just like UniSWap",
     image: "./beeswap.png",
-    link: "https://beeswap-mauve.vercel.app/",
+    link: "https://beeswap-digitalsimboja.vercel.app/",
   },
 
   {
