@@ -1,5 +1,13 @@
 export const projects = [
   {
+    title: "A Profile NFT Subgraph",
+    subtitle: "An OpenSea.io NFTs collections subgraph",
+    description:
+      "A subgraph for indexing and querying NFT collections deployed on the Polygon Mainnet",
+    image: "./profile_subgraph.png",
+    link: "https://learnweb3dao-skillnft.vercel.app",
+  },
+  {
     title: "BeeSwap",
     subtitle: "A DeFi Token Swap",
     description:
@@ -8,14 +16,6 @@ export const projects = [
     link: "https://beeswap-digitalsimboja.vercel.app/",
   },
 
-  {
-    title: "DAO Dapp",
-    subtitle: "A DAO Sample project",
-    description:
-      "A DAO sample application to enable participants create and vote on Proposals",
-    image: "./2.svg",
-    link: "https://building-a-dao-bice.vercel.app/",
-  },
   {
     title: "Whitelist-Dapp",
     subtitle: "Whitelist Dapp",
