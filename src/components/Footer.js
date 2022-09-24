@@ -5,6 +5,7 @@ class Footer extends Component {
     return (
       <footer className="text-center bg-gray-900 text-white">
         <div class="container px-6 pt-6">
+          <h3 class="uppercase font-bold mb-2.5">Reach me!</h3>
           <div class="flex justify-center mb-6">
             <a
               href="#!"
@@ -194,7 +195,7 @@ class Footer extends Component {
                 </li>
                 <li>
                   <a href="#!" class="text-white">
-                    React
+                    React/NextJS
                   </a>
                 </li>
               </ul>
@@ -232,20 +233,10 @@ class Footer extends Component {
               <ul class="list-none mb-0">
                 <li>
                   <a href="#!" class="text-white">
-                    Address
+                    Email: digitalsimboja@gmail.com
                   </a>
                 </li>
-                <li>
-                  <a href="#!" class="text-white">
-                    Lagos
-                  </a>
-                </li>
-                <li>
-                  <a href="#!" class="text-white">
-                    {" "}
-                    Nigeria
-                  </a>
-                </li>
+
                 <li>
                   <a href="#!" class="text-white">
                     +234 - 806 - 3874 - 746
@@ -267,7 +258,7 @@ class Footer extends Component {
         </div>
         <div class="text-center p-4" style={{}}>
           © 2022 Copyright: &nbsp;
-          <a class="text-white" href="https://tailwind-elements.com/">
+          <a class="text-white" href="/">
             {" "}
             Sunday Mgbogu - Portfolio
           </a>

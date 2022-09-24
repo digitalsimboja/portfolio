@@ -6,6 +6,7 @@ export const projects = [
       "A subgraph for indexing and querying NFT collections deployed on the Polygon Mainnet",
     image: "./profile_subgraph.png",
     link: "https://learnweb3dao-skillnft.vercel.app",
+    code: "https://github.com/digitalsimboja/learnweb3dao-skillnft",
   },
   {
     title: "BeeSwap",
@@ -14,6 +15,7 @@ export const projects = [
       "A Decentralized Token Exchange app for swapping between tokens just like UniSWap",
     image: "./beeswap.png",
     link: "https://beeswap-digitalsimboja.vercel.app/",
+    code: "https://github.com/digitalsimboja/beeswap",
   },
 
   {
