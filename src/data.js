@@ -17,6 +17,15 @@ export const projects = [
     link: "https://beeswap-digitalsimboja.vercel.app/",
     code: "https://github.com/digitalsimboja/beeswap",
   },
+  {
+    title: "Real Estate NFT Marketplace",
+    subtitle: "A Decentralized Real Estate Listing, Purchase and Renting platform",
+    description:
+      "A Decentralized Real Estate Listing, Purchase and Renting platform deployed to the Polygon Chain",
+    image: "./nftrealestate.png",
+    link: "",
+    code: "https://github.com/digitalsimboja/real-estate-nftmarketplace",
+  },
 
   {
     title: "Whitelist-Dapp",

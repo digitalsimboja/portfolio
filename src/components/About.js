@@ -9,15 +9,14 @@ class About extends Component {
             <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
               Hi, I'm Sunday
               <br className="hidden lg:inline-block" /> I love to build amazing
-              apps.
+              Dapps.
             </h1>
-            <p className="flex justify-center">
-              I am a Fullstack Smart Contract Developer. I am skilled at
+            <p className="flex justify-center mb-4">
+              I am a Fullstack Blockchain Developer. I am an expert at
               building Subgraphs on theGraph Protocol for indexing and querying
               blockchain data for the Polygon, Ethereum and Flow Blockchains
-              among others. Currently, I am building on the Web3.0 with great
-              focus on NFT marketplace and DeFi, using Solidity while sharpening
-              my skills in Rust.
+              among others. Currently, I am building a Token Swap & Vesting(BeeSwap) for the  
+              Telos EVM Mainnet.
             </p>
             <div className="flex justify-center">
               <a
